@@ -12,11 +12,11 @@ This project is a simple sentiment analysis tool with a graphical user interface
 ## Screenshots
 
 * **Review Input:**
-  ![Input Dialog Box](dialog_box_for_input.png)
+  ![Image](https://github.com/user-attachments/assets/b7f685ca-c9fe-4fa8-8f62-2b7d77514232)
 * **Sentiment Result:**
-  ![Result Dialog Box](result_dialogbox.png)
+ ![Image](https://github.com/user-attachments/assets/dcd56a87-c26c-43f1-8aad-6733e86c07fc)
 * **Suggestion Output:**
-  ![Suggestion Dialog Box](suggest_dialogbox.png)
+  ![Image](https://github.com/user-attachments/assets/d91cdc77-3fb1-4889-9aee-ed40717cbf23)
 
 ## Requirements
 
